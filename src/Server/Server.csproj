@@ -22,5 +22,9 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Update="System.Reactive" Version="4.1.6" />
+  </ItemGroup>
   
 </Project>
